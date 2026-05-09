@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=50%20Days%20of%20Python%20Mastery&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=50%20Days%20of%20Python%20Programming&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
 
 # 🚀 50 Days of Python Programming
 
