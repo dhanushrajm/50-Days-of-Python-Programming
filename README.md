@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=50%20Days%20of%20Python%20Mastery&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
 
-# 🚀 50 Days of Python Mastery Challenge
+# 🚀 50 Days of Python Programming
 
-**Transforming from absolute beginner to an advanced Data Science, ML, and Full Stack developer in 50 days.**
+**Transforming into an advanced Data Science, ML, and Full Stack developer in 50 days using Python Programming. I am going to start it everything from beginning, brushing up some basic concepts which i already know, but doing it again to make myself more consistent with those concepts.**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
