@@ -111,9 +111,9 @@ Focus: Neural networks, Computer Vision, Transformers, and Cloud deployments.
 
 ## 💡 How to Use This Repository
 If you are following along or want to check my progress, you can clone and run my daily scripts. 
-1. Clone this repository: `git clone https://github.com/your-username/Python_Mastery_50_Days.git`
+1. Clone this repository: `git clone https://github.com/dhanushrajm/50-Days-of-Python-Programming.git`
 2. Open the project in VS Code.
-3. Run individual scripts from the terminal: `python Day_01/day_01_script.py`
+3. Run individual scripts from the terminal: `python day_01.py`
 
 ---
 *Commitment and Consistency is the key to programming. Let's learn and code!* 💻📈
